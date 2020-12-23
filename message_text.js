@@ -1,0 +1,1 @@
+const elonMuskMessage = ['When something is important enough, you do it even if the odds are not in your favor.', 'Persistence is very important. You should not give up unless you are forced to give up.', 'I think it is possible for ordinary people to choose to be extraordinary.']
